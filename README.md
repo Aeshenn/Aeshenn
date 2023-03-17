@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, there hooman! 👋
+
+
+- 📫 How to reach me: Dm me on Instagram.
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Java 😊
 
 <!--
 **Aeshenn/Aeshenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
