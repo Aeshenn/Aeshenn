@@ -1,9 +1,10 @@
-### Hi, there hooman! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=0689D2&width=435&lines=Hey%2C+there+hooman!+%F0%9F%91%8B;I'm+Krystal+%F0%9F%98%8A;Nice+meeting+you+all!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
+A student who wants to learn programming and still confuses what she really want to do 😪 (UI/UX Designer or Front End Developer). Anyways, please bare with me I'll get there one step at a time. 😫
 
 - 📫 How to reach me: Dm me on Instagram.
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning Java 😊
+- 🌱 I’m currently learning Java so far 😊
 
 <!--
 **Aeshenn/Aeshenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
